@@ -335,7 +335,7 @@ st.markdown(f"""
 <div style="text-align: center; color: gray; padding: 1rem;">
     <p>🤖 <strong>Modèle XGBoost</strong> | Accuracy: 85% | AUC-ROC: 0.89</p>
     <p>📊 <strong>Source</strong>: Telco Customer Churn Dataset (IBM) - 7 043 clients, 21 variables</p>
-    <p>👨‍💻 <strong>Mahuton Paul TOVOEHO</strong> - Data Scientist | ML Engineer</p>
+    <p>👨‍💻 <strong>Mahuton Paul TOVOEHO</strong> - Data Scientist | Machine Learning Engineer</p>
     <p>📅 Déployé avec Streamlit Cloud | {datetime.now().strftime("%d/%m/%Y")}</p>
 </div>
 """, unsafe_allow_html=True)
