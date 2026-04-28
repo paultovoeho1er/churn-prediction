@@ -69,7 +69,7 @@ with st.sidebar:
     
     *Data Scientist / Machine Learning Engineer*
     
-    [GitHub](https://github.com/paultovoeho1er) | [LinkedIn](www.linkedin.com/in/mahuton-paul-tovoeho-53b70b290)
+    [GitHub](https://github.com/paultovoeho1er) | [LinkedIn](https://www.linkedin.com/in/mahuton-paul-tovoeho-53b70b290)
     """)
     
     st.markdown("---")
